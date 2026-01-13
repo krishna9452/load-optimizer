@@ -1,0 +1,18 @@
+0 verbose cli /home/krishna/.nvm/versions/node/v24.1.0/bin/node /home/krishna/.nvm/versions/node/v24.1.0/bin/npm
+1 info using npm@11.5.2
+2 info using node@v24.1.0
+3 silly config load:file:/home/krishna/.nvm/versions/node/v24.1.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/krishna/load-optimizer/.npmrc
+5 silly config load:file:/home/krishna/.npmrc
+6 silly config load:file:/home/krishna/.nvm/versions/node/v24.1.0/etc/npmrc
+7 verbose title npm config get prefix
+8 verbose argv "config" "get" "prefix"
+9 verbose logfile logs-max:10 dir:/home/krishna/load-optimizer/npm-cache/_logs/2026-01-13T13_48_50_131Z-
+10 verbose logfile /home/krishna/load-optimizer/npm-cache/_logs/2026-01-13T13_48_50_131Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /home/krishna/load-optimizer
+13 verbose os Linux 6.6.87.2-microsoft-standard-WSL2
+14 verbose node v24.1.0
+15 verbose npm  v11.5.2
+16 verbose exit 0
+17 info ok
